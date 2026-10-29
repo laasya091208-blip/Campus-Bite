@@ -1,0 +1,6 @@
+{
+  "name": "Campus Bite",
+  "description": "Real-time campus food availability tracker helping university students check canteen food stocks before walking across campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
